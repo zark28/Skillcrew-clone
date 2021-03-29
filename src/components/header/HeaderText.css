@@ -1,0 +1,11 @@
+.header-text{
+    /* background-color: blue; */
+    width: 50%;
+    height: 70%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-evenly;
+    padding-left: 3rem;
+    z-index: 4;
+}

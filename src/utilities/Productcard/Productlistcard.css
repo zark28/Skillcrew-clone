@@ -1,0 +1,19 @@
+.productlistcard{
+    width: 20rem;
+    height: 24rem;
+    /* background-color: darkgray; */
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    border-radius: 10px;
+    overflow: hidden;  
+    cursor: pointer;  
+
+}
+
+.productlistcard:hover{
+    box-shadow: 2px 2px 3px var(--white),
+    2px 2px 3px var(--black)
+    ;
+    transition:all .3s ease-in-out;
+    border-radius: 10px;
+}

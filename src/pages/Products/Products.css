@@ -1,0 +1,8 @@
+.products{
+    width: 100%;
+    background-color:var(--white);
+    height:auto;
+    /* position: absolute; */
+    /* left: 0; */
+    padding: 18rem 8rem 0 8rem;
+}

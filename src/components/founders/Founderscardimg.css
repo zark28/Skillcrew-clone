@@ -1,0 +1,18 @@
+.founderscardimg{
+    width: 55%;
+    display: flex;
+    align-items: center;
+    margin-top: 2rem;
+    /* background-color: rgb(224, 224, 224); */
+}
+
+.founderscardimg img{
+    width: 25%;
+    margin-right: 1.5rem;
+    border-radius: 50%;
+}
+
+
+.founderscardimg div>h4{
+    margin-bottom: .5rem;
+}

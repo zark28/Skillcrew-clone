@@ -1,0 +1,10 @@
+.socialicons{
+    display: flex;
+    width: 100%;
+    padding: 1rem 0;
+    /* background: var(--gray); */
+    height: 20%;
+    align-items: center;
+    justify-content: space-evenly;
+}
+

@@ -1,0 +1,20 @@
+.productcard-text{
+    /* background-color: darkgreen; */
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    padding: 0 2rem;
+    background-color: #fff;
+}
+
+.productcard-text :is(h4,p){
+width: 100%;
+
+}
+
+
+.productcard-text p:last-of-type{
+    color: gold;
+}

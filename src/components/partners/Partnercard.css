@@ -1,0 +1,9 @@
+.partnercard{
+    width: 8%;
+    height: auto;
+}
+.partnercard img{
+    width: 100%;
+    height: auto;
+    filter: invert(72%) sepia(8%) saturate(215%) hue-rotate(180deg) brightness(92%) contrast(89%);
+}

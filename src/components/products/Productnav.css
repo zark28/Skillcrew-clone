@@ -1,0 +1,18 @@
+.productnav{
+    width: 20%;
+    height: 70%;
+    /* background-color: rgb(192, 155, 155); */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    
+}
+
+.activeNav{
+    transition: .3s ease-in-out;
+    transform: scale(1.1);
+    box-shadow: 2px 2px 3px var(--black),
+    -2px -2px 3px var(--white);
+    border-radius: 10px;
+}

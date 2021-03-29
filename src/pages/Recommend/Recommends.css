@@ -1,0 +1,11 @@
+.recommend{
+    /* background-color:var(--light-blue); */
+    background: linear-gradient(30deg ,var(--light-blue),#06599f);
+    height: 40vh;
+    width: 85%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 8rem auto;
+    border-radius:60px ;
+}

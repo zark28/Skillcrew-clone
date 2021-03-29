@@ -1,0 +1,14 @@
+.header-img{
+    width: 65%;
+    z-index: 2;
+    position: absolute;
+    right: 0;
+    top: 15vh;
+}
+
+.header-img img{
+    width: 100%;
+   background:linear-gradient(220deg,#065a9f0a 10%,var(--light-blue));
+   transform: scaleX(-1);
+   -webkit-transform: scaleX(-1);
+}

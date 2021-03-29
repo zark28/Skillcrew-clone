@@ -1,0 +1,19 @@
+.partners{
+    margin-top:8rem;
+    height: 25vh;
+   width: 100%;
+   /* background-color: lawngreen; */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.partners main{
+display: flex;
+justify-content: space-evenly;
+align-items: center;
+width: 100%;
+height: auto;
+padding: 0 8rem;
+}

@@ -1,0 +1,12 @@
+.recommendimg{
+    width: 30%;
+    height: 100%;
+    position: relative;
+    margin-right: 2rem;
+}
+
+.recommendimg >img{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}

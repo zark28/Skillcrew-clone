@@ -1,0 +1,15 @@
+.get-started-card{
+    display: flex;
+    padding: 1.5rem;
+    justify-content: space-between;
+    align-items: center;
+    background-color:var(--white);
+    color:var(--black);
+    width: 95%;
+    border-radius: 10px;
+}
+
+.get-started-card p{
+    color: var(--gray);
+    margin-bottom: .5rem;
+}

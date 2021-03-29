@@ -1,0 +1,12 @@
+.socials{
+    /* background-color: blue; */
+    color: var(--black);
+}
+.socials>.logo{
+    color: var(--black);
+}
+
+.socials p{
+   line-height: 1.5;
+   font-size: 1.5rem;
+}

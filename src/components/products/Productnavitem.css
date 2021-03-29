@@ -1,0 +1,38 @@
+.productnavitem img{
+    width: 2rem;
+    opacity: 0;
+    transition: .3s ease-in-out;
+}
+
+
+.productnavitem a{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: var(--black);
+    padding: 1.5rem;
+    /* background-color: chartreuse; */
+    width: 15rem;
+    text-align: center;
+    
+}
+.productnavitem{
+    border-radius: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+.productnavitem:hover img{
+opacity: 1;
+transition: .3s ease-in-out;
+
+}

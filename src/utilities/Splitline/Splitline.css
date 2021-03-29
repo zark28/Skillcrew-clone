@@ -1,0 +1,6 @@
+.splitline{
+    width: 2px;
+    height: 30vh;
+    background:#a4a8af21;
+    transform: rotate(180deg);
+}

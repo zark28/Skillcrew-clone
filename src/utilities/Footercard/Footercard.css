@@ -1,0 +1,42 @@
+.footer-card{
+    height: 100%;
+    /* background-color: navy; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+    cursor: pointer;
+    
+}
+
+.footer-card:hover{
+    box-shadow: 2px 2px 3px var(--black),
+    -2px -2px 3px var(--white);
+    transition:all .1.5s ease-in-out;
+    border-radius: 10px;
+}
+
+.footer-card:active{
+    box-shadow: 2px 2px 3px var(--white),
+    -2px -2px 3px var(--black);
+    transition:all .3s ease-in-out;
+    border-radius: 10px;
+}
+
+
+.foot-img{
+    width: 8rem;
+    margin-right: 15px;
+    height: 50%;
+}
+
+.foot-card-text{
+    display: block;
+    padding: .2rem;
+    width: 70%;
+    /* height: 100%; */
+} 
+
+.foot-card-text p{
+    color: var(--gray);
+}
+
