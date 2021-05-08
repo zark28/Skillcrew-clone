@@ -6,3 +6,20 @@
     /* left: 0; */
     padding: 18rem 8rem 0 8rem;
 }
+
+
+@media screen and (max-width: 1440px) {
+    .products{
+        padding: 18rem 0 0 0;
+    }
+}
+
+
+@media screen and (max-width: 1200px) {
+    .products{
+        padding-top: 10rem;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+}

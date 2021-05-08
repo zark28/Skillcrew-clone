@@ -17,3 +17,17 @@ width: 100%;
 height: auto;
 padding: 0 8rem;
 }
+
+@media screen and (max-width:1440px) {
+  .partners{
+    padding:8rem 0;
+}
+}
+@media screen and (max-width:1200px) {
+
+}
+ 
+
+@media screen and (max-width:1024px) {
+  
+}

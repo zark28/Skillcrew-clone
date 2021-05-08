@@ -25,3 +25,24 @@
     transition:all .3s ease-in-out;
     border-radius: 10px;
 }
+
+
+@media screen and (max-width:1444px) {
+    .navlinks{
+        padding-top:0;
+    
+    }
+    .navlink{
+        padding: 0;
+    }
+    }
+
+@media screen and (max-width:1024px) {
+.navlinks{
+    padding-top:0;
+
+}
+.navlink{
+    padding: 0;
+}
+}

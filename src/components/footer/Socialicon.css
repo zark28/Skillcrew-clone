@@ -19,7 +19,31 @@
 }
 
 .socialicon img{
-    width: 70%;
-    height: 70%;
+    width: 80%;
+    height: 80%;
     
 }
+
+@media screen and (max-width:1440px) {
+  .socialicon{
+      height: 1.5rem;     
+      
+  }
+
+ 
+ }
+
+ @media screen and (max-width:1200px) {
+    .socialicon{
+        height: 200%;
+        
+    }
+}
+  
+ 
+ @media screen and (max-width:1024px) {
+    .socialicon{
+        height: 200%;
+        
+    }
+ }

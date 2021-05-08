@@ -1,14 +1,17 @@
-.productlist{
-    width: 75%;
-    /* background-color: cornflowerblue; */
-    height: 100%;
-    margin:  auto;
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    align-items: center;
-    justify-items: center;
-    /* gap: 2rem; */
-    
+.productlist {
+  width: 75%;
+  /* background-color: cornflowerblue; */
+  height: 100%;
+  margin: auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  align-items: center;
+  justify-items: center;
+  gap: 2rem;
+}
 
+@media screen and (max-width: 1440px) {
+}
 
+@media screen and (max-width: 1024px) {
 }

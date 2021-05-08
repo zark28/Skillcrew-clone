@@ -11,3 +11,18 @@
 
 }
 
+@media screen and (max-width:1440px) {
+.footercard{
+    width: 25%;
+}
+ }
+ @media screen and (max-width:1200px) {
+ .footercard{
+     width: 27%;
+ }
+}
+ 
+ @media screen and (max-width:1024px) {
+   
+ }
+

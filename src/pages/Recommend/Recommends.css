@@ -9,3 +9,18 @@
     margin: 8rem auto;
     border-radius:60px ;
 }
+
+@media screen and (max-width:1440px) {
+    .recommend{
+    margin-top: 15rem;
+    }
+}
+@media screen and (max-width:1200px) {
+    .recommend{
+        margin-top: 10rem;
+        }
+}
+
+@media screen and (max-width:1024px) {
+  
+}

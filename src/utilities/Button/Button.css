@@ -21,3 +21,19 @@
     box-shadow: 2px 2px 2px var(--white),
     -2px -2px 2px var(--black);
 }
+
+@media screen and (max-width:1440px) {
+   .btn{
+       padding: 1.2rem;
+       font-size: 1;
+   }
+}
+@media screen and (max-width:1200px) {
+    .btn{
+        padding: 1rem;
+    }
+}
+
+@media screen and (max-width:1024px) {
+  
+}
