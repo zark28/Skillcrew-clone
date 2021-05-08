@@ -2,3 +2,19 @@
     font-size: 1.5rem;
     
 }
+@media screen and (max-width:1444px) {
+    .descrip{
+        margin: 2rem 0;
+    }
+} 
+
+@media screen and (max-width:1200px) {
+    .descrip{
+        margin: 2rem 0;
+
+    }
+} 
+
+@media screen and (max-width:1200px) {
+    
+} 
